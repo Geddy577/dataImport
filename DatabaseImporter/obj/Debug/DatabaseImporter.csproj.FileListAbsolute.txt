@@ -1,0 +1,9 @@
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\bin\Debug\DatabaseImporter.exe.config
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\bin\Debug\DatabaseImporter.exe
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\bin\Debug\DatabaseImporter.pdb
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\obj\Debug\DatabaseImporter.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\obj\Debug\DatabaseImporter.Form1.resources
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\obj\Debug\DatabaseImporter.Properties.Resources.resources
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\obj\Debug\DatabaseImporter.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\obj\Debug\DatabaseImporter.exe
+C:\Users\Stephen\Desktop\database transfering\DatabaseImporter\DatabaseImporter\obj\Debug\DatabaseImporter.pdb
